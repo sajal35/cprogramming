@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588577702 source:c:\users\sajal\desktop\online\exercise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

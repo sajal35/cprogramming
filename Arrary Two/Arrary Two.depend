@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588319678 source:c:\users\sajal\desktop\online\arrary two\main.c
+	<stdio.h>
+	"myfunction.h"
+
+1588319779 c:\users\sajal\desktop\online\arrary two\myfunction.h
+

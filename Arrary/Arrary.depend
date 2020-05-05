@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588232827 source:c:\users\sajal\desktop\online\arrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

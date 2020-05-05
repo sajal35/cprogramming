@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1588146324 source:c:\users\sajal\desktop\online\functions\main.c
+	<stdio.h>
+	"myfunction.h"
+	"mymenu.h"
+
+1588146371 c:\users\sajal\desktop\online\functions\myfunction.h
+
+1588145992 c:\users\sajal\desktop\online\functions\mymenu.h
+

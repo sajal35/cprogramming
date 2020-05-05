@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588055828 source:c:\users\sajal\desktop\online\traffic\main.c
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
